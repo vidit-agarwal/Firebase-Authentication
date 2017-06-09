@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:3:5-57
+		INJECTED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /home/vidit/.android/build-cache/f22aab845ebbc3b1482a4d239f38dbf438242d49/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /home/vidit/.android/build-cache/d1d2b1f293b1282daa95f9ffbd35de048d30062d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vidit/.android/build-cache/b8dd78ad0c23d8b4fdad0028f14cdefca6c241a1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vidit/.android/build-cache/03d3457dcf72744821fe62347abe919991b2a574/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vidit/.android/build-cache/7e99d7429adf3fa445a2100e98641b0395f28494/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/vidit/.android/build-cache/a5871b0d3caa7285e50dad2144b68c3560eedb78/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-auth:9.8.0] /home/vidit/.android/build-cache/febca0c4613ceed7e1fdc832046dc48255a658ba/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] /home/vidit/.android/build-cache/fd53bd198561ab2b0caa809f0150929825ec4072/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/vidit/.android/build-cache/d3f687ae5ba50060cc4711ecd54e96da18e37a30/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:9.8.0] /home/vidit/.android/build-cache/42f3a299429c77c0ac029a5ef100d350a2778898/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/vidit/.android/build-cache/36b8e45f8952d8abcafa010214e5df07da493d18/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] /home/vidit/.android/build-cache/fd9313d30d2c07832c56ce5a0d38ca275eba2f93/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/vidit/.android/build-cache/148b919e4cbbd0ec4642a414a8d6b3b431794520/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/vidit/.android/build-cache/690fb85d553ebeb8125206f9f02629010b422692/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/vidit/.android/build-cache/02581ea1148b7d8536359471d0cae9129dd9ac7d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vidit/.android/build-cache/2ad8f054da6cd1e5b2fc0c58ed9e6ad6d220f870/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vidit/.android/build-cache/bddf4f7ffc6e1618bdf7d5136a9d329e1c56fbad/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vidit/.android/build-cache/e9fe2f9635279a432cfba7e139477f16b80b32cc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vidit/.android/build-cache/1880baa7d9143885db7bd3d839cb6c6ddb410980/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/vidit/.android/build-cache/c84c1278600acd80b92bbb3265a1bb82b79df2e6/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:9:9-49
+	android:allowBackup
+		ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:7:9-44
+	android:theme
+		ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.hugeardor.vidit.firebaseauthenticarion.MainActivity
+ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.hugeardor.vidit.firebaseauthenticarion.Dashboard
+ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:19:9-47
+	android:name
+		ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:19:19-44
+activity#com.hugeardor.vidit.firebaseauthenticarion.forgotPassword
+ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:20:19-49
+activity#com.hugeardor.vidit.firebaseauthenticarion.SignUp
+ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:21:9-53
+	android:name
+		ADDED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml:21:19-41
+uses-sdk
+INJECTED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /home/vidit/.android/build-cache/f22aab845ebbc3b1482a4d239f38dbf438242d49/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /home/vidit/.android/build-cache/d1d2b1f293b1282daa95f9ffbd35de048d30062d/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vidit/.android/build-cache/b8dd78ad0c23d8b4fdad0028f14cdefca6c241a1/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vidit/.android/build-cache/03d3457dcf72744821fe62347abe919991b2a574/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vidit/.android/build-cache/7e99d7429adf3fa445a2100e98641b0395f28494/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/vidit/.android/build-cache/6087b7220302356e8f6ea7984509fdf5d6770bac/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/vidit/.android/build-cache/a5871b0d3caa7285e50dad2144b68c3560eedb78/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:9.8.0] /home/vidit/.android/build-cache/febca0c4613ceed7e1fdc832046dc48255a658ba/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] /home/vidit/.android/build-cache/fd53bd198561ab2b0caa809f0150929825ec4072/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] /home/vidit/.android/build-cache/b2b098680b36fe834544b04ab39886ac294170d3/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/vidit/.android/build-cache/d3f687ae5ba50060cc4711ecd54e96da18e37a30/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:9.8.0] /home/vidit/.android/build-cache/42f3a299429c77c0ac029a5ef100d350a2778898/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/vidit/.android/build-cache/36b8e45f8952d8abcafa010214e5df07da493d18/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] /home/vidit/.android/build-cache/fd9313d30d2c07832c56ce5a0d38ca275eba2f93/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/vidit/.android/build-cache/148b919e4cbbd0ec4642a414a8d6b3b431794520/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/vidit/.android/build-cache/690fb85d553ebeb8125206f9f02629010b422692/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] /home/vidit/.android/build-cache/02581ea1148b7d8536359471d0cae9129dd9ac7d/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vidit/.android/build-cache/2ad8f054da6cd1e5b2fc0c58ed9e6ad6d220f870/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vidit/.android/build-cache/bddf4f7ffc6e1618bdf7d5136a9d329e1c56fbad/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vidit/.android/build-cache/e9fe2f9635279a432cfba7e139477f16b80b32cc/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vidit/.android/build-cache/1880baa7d9143885db7bd3d839cb6c6ddb410980/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/vidit/.android/build-cache/c84c1278600acd80b92bbb3265a1bb82b79df2e6/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/vidit/.android/build-cache/d1d2b1f293b1282daa95f9ffbd35de048d30062d/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vidit/Desktop/AndroidStudioProjects/FirebaseAuthenticarion/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/vidit/.android/build-cache/d1d2b1f293b1282daa95f9ffbd35de048d30062d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vidit/.android/build-cache/b8dd78ad0c23d8b4fdad0028f14cdefca6c241a1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vidit/.android/build-cache/03d3457dcf72744821fe62347abe919991b2a574/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vidit/.android/build-cache/7e99d7429adf3fa445a2100e98641b0395f28494/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/vidit/.android/build-cache/6087b7220302356e8f6ea7984509fdf5d6770bac/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/vidit/.android/build-cache/a5871b0d3caa7285e50dad2144b68c3560eedb78/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/vidit/.android/build-cache/02581ea1148b7d8536359471d0cae9129dd9ac7d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vidit/.android/build-cache/2ad8f054da6cd1e5b2fc0c58ed9e6ad6d220f870/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vidit/.android/build-cache/bddf4f7ffc6e1618bdf7d5136a9d329e1c56fbad/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vidit/.android/build-cache/e9fe2f9635279a432cfba7e139477f16b80b32cc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vidit/.android/build-cache/1880baa7d9143885db7bd3d839cb6c6ddb410980/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/vidit/.android/build-cache/c84c1278600acd80b92bbb3265a1bb82b79df2e6/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/vidit/.android/build-cache/d1d2b1f293b1282daa95f9ffbd35de048d30062d/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/vidit/.android/build-cache/d1d2b1f293b1282daa95f9ffbd35de048d30062d/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/vidit/.android/build-cache/d3f687ae5ba50060cc4711ecd54e96da18e37a30/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/vidit/.android/build-cache/d3f687ae5ba50060cc4711ecd54e96da18e37a30/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/vidit/.android/build-cache/d3f687ae5ba50060cc4711ecd54e96da18e37a30/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/vidit/.android/build-cache/d3f687ae5ba50060cc4711ecd54e96da18e37a30/output/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/vidit/.android/build-cache/36b8e45f8952d8abcafa010214e5df07da493d18/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/vidit/.android/build-cache/36b8e45f8952d8abcafa010214e5df07da493d18/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/vidit/.android/build-cache/36b8e45f8952d8abcafa010214e5df07da493d18/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/vidit/.android/build-cache/36b8e45f8952d8abcafa010214e5df07da493d18/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/vidit/.android/build-cache/36b8e45f8952d8abcafa010214e5df07da493d18/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vidit/.android/build-cache/90e8d29dd49147dbba01fbb8df88eeba1c88a8e4/output/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vidit/.android/build-cache/3d32f14f20c4755d93e1bc1cfb7015f9071851ed/output/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] /home/vidit/.android/build-cache/fd9313d30d2c07832c56ce5a0d38ca275eba2f93/output/AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /home/vidit/.android/build-cache/fd9313d30d2c07832c56ce5a0d38ca275eba2f93/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /home/vidit/.android/build-cache/fd9313d30d2c07832c56ce5a0d38ca275eba2f93/output/AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /home/vidit/.android/build-cache/fd9313d30d2c07832c56ce5a0d38ca275eba2f93/output/AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /home/vidit/.android/build-cache/fd9313d30d2c07832c56ce5a0d38ca275eba2f93/output/AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/vidit/.android/build-cache/690fb85d553ebeb8125206f9f02629010b422692/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/vidit/.android/build-cache/690fb85d553ebeb8125206f9f02629010b422692/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/vidit/.android/build-cache/690fb85d553ebeb8125206f9f02629010b422692/output/AndroidManifest.xml:20:20-65
